@@ -1,10 +1,9 @@
 {
-  "title": "Kedar Khire",
-  "name": "thoughts",
-  "version": "1.0.0",
+  "name": "kedar",
+  "description": "personal site",
   "scripts": {
     "start": "gulp watch",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages"
   },
   "description": "Personal site for Kedar Khire",
   "keywords": [
@@ -17,7 +16,7 @@
   ],
   "license": "MIT",
   "author": "Kedar",
-  "homepage":"https://kedarkhire.github.io/"
+  "homepage":"https://kedarkhire.github.io/",
   "dependencies": {
     "bootstrap": "4.3.1",
     "gh-pages": "^2.1.1",
